@@ -1,3 +1,7 @@
+# Nick Pisarczyk
+# SI 206
+# 09/17/24
+
 import random
 class NumberGuess:
     
